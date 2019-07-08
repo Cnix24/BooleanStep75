@@ -1,0 +1,11 @@
+C:\Users\cback\source\repos\RandomProjects\BooleanOperators\BooleanOperators\bin\Debug\netcoreapp2.1\BooleanOperators.deps.json
+C:\Users\cback\source\repos\RandomProjects\BooleanOperators\BooleanOperators\bin\Debug\netcoreapp2.1\BooleanOperators.runtimeconfig.json
+C:\Users\cback\source\repos\RandomProjects\BooleanOperators\BooleanOperators\bin\Debug\netcoreapp2.1\BooleanOperators.runtimeconfig.dev.json
+C:\Users\cback\source\repos\RandomProjects\BooleanOperators\BooleanOperators\bin\Debug\netcoreapp2.1\BooleanOperators.dll
+C:\Users\cback\source\repos\RandomProjects\BooleanOperators\BooleanOperators\bin\Debug\netcoreapp2.1\BooleanOperators.pdb
+C:\Users\cback\source\repos\RandomProjects\BooleanOperators\BooleanOperators\obj\Debug\netcoreapp2.1\BooleanOperators.csprojAssemblyReference.cache
+C:\Users\cback\source\repos\RandomProjects\BooleanOperators\BooleanOperators\obj\Debug\netcoreapp2.1\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\cback\source\repos\RandomProjects\BooleanOperators\BooleanOperators\obj\Debug\netcoreapp2.1\BooleanOperators.AssemblyInfoInputs.cache
+C:\Users\cback\source\repos\RandomProjects\BooleanOperators\BooleanOperators\obj\Debug\netcoreapp2.1\BooleanOperators.AssemblyInfo.cs
+C:\Users\cback\source\repos\RandomProjects\BooleanOperators\BooleanOperators\obj\Debug\netcoreapp2.1\BooleanOperators.dll
+C:\Users\cback\source\repos\RandomProjects\BooleanOperators\BooleanOperators\obj\Debug\netcoreapp2.1\BooleanOperators.pdb
